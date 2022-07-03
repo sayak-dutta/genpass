@@ -29,8 +29,8 @@ if (save) {
 clipboardy.writeSync(generatedPassword);
 
 //Output generated password
-log(chalk.cyan("Generated Password : ") + chalk.bgRed(generatedPassword));
+log(chalk.cyan("Generated Password : ") + chalk.bgWhite(chalk.blue(generatedPassword)));
 
 //Copyright and Author Name
 log("");
-log(chalk.gray("Sayak Dutta © 2021"));
+log(chalk.gray("Sayak Dutta © 2022"));
