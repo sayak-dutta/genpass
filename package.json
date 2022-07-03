@@ -1,8 +1,12 @@
 {
-  "name": "genpass",
+  "name": "@sayakdutta/passcli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "passcli": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
