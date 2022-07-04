@@ -1,5 +1,5 @@
 
-# 🔐passcli v1.0.2
+# 🔐passcli v1.0.0
 
 passcli is a command-line password generator tool that has many advance features like modifying to your desired password, copying it, saving passwords to a .txt file
 ## Installation
