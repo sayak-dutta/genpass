@@ -14,7 +14,7 @@ Install passcli with npm
 
 #### Get a random password
 
-```http
+```bash
   passcli
 ```
 #### Or you can use these options to modify the password
